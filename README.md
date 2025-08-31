@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm Muhammed Emin Alan (wonzy)
 
-<!--
-**muhammedeminalan/muhammedeminalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter Developer | Cross-platform App Developer (Android & iOS)**  
 
-Here are some ideas to get you started:
+Ben mobil geliştirme odaklı bir yazılım geliştiricisiyim. Özellikle **Flutter** ile çapraz platform uygulamalar geliştiriyorum. Kod yazarken temiz mimari, ölçeklenebilirlik ve sürdürülebilirlik benim için öncelikli.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Languages:** Dart, Java, Kotlin, Swift, C++
+- **Frameworks & Tools:** Flutter, Bloc, GetX, Provider, Riverpod
+- **Databases:** SQLite, Firebase, Hive
+- **Other:** REST API, Git/GitHub, CI/CD
+
+---
+
+## 📌 Projects
+- 📱 [flutter_bloc_learning](https://github.com/muhammedeminalan/flutter_bloc_learning) – Bloc state management öğrenme projeleri  
+- 🎯 [getx_quiz_app](https://github.com/muhammedeminalan/getx_quiz_app) – GetX kullanılarak geliştirilen quiz uygulaması  
+- ⚡ [locator-ornek](https://github.com/muhammedeminalan/locator-ornek) – Dependency injection örneği  
+
+---
+
+## 🌍 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/muhammed-emin-alan-550509340)  
+- [Medium](https://medium.com/@eminalan)  
+
+---
+
+⭐️ *“Clean code = happy developer.”*  
