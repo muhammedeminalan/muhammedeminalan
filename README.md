@@ -1,4 +1,4 @@
-<!-- Banner: Sadece logolar, daha büyük ve yan yana -->
+<!-- Banner: Sadece logolar, daha büyük ve yan yana, Apple beyaz -->
 <p align="center" style="display: flex; justify-content: center; gap: 80px; flex-wrap: nowrap;">
   <!-- Flutter -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="100" alt="Flutter Logo" style="filter: brightness(1.2) invert(0.1);" />
@@ -6,8 +6,8 @@
   <!-- Android -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="100" alt="Android Logo" style="filter: brightness(1.1) saturate(1.5) hue-rotate(80deg);" />
 
-  <!-- iOS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="100" alt="iOS Logo" style="filter: brightness(1.5) invert(0.9);" />
+  <!-- iOS (Apple) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="100" alt="iOS Logo" style="filter: brightness(10) invert(1);" />
 </p>
 <!-- Typing animation alt alta, renkler değişiyor -->
 <h1 align="center">
