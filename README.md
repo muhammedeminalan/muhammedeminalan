@@ -9,21 +9,10 @@
   <!-- iOS (Apple) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="100" alt="iOS Logo" style="filter: brightness(10) invert(1);" />
 </p>
-<!-- Typing animation alt alta, renkler değişiyor -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammed+Emin+Alan+(wonzy)" alt="Typing SVG" />
-  </a>
-</h1>
 
+<!-- Neon animasyonlu typing yazılar -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Flutter+Developer+🚀" alt="Typing SVG" />
-  </a>
-</h1>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7CFC00&center=true&vCenter=true&width=650&lines=Cross+Platform+App+Builder+🌍" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=00C4FF,FF6EC7,7CFC00&center=true&vCenter=true&width=650&lines=Hi,+I'm+Muhammed+Emin+Alan+(wonzy);Flutter+Developer+🚀;Cross+Platform+App+Builder+🌍" alt="Typing SVG" />
   </a>
 </h1>
