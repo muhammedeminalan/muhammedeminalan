@@ -28,20 +28,6 @@
 
 ---
 
-## 📌 Featured Projects  
-🚀 [**flutter_bloc_learning**](https://github.com/muhammedeminalan/flutter_bloc_learning) – State management with **Bloc**  
-🎯 [**getx_quiz_app**](https://github.com/muhammedeminalan/getx_quiz_app) – Quiz app built using **GetX**  
-⚡ [**locator-ornek**](https://github.com/muhammedeminalan/locator-ornek) – Example project using **Service Locator Pattern**  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedeminalan&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedeminalan&layout=compact&theme=tokyonight" height="170" alt="Top Langs"/>
-</p>
-
----
 
 ## 🌍 Connect with Me  
 <p align="center">
