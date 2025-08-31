@@ -1,10 +1,16 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm Muhammed Emin Alan (wonzy)</h1>
-<h3 align="center">🚀 Flutter Developer | Cross-Platform App Builder (Android & iOS)</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="60" alt="Flutter"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" height="60" alt="Android"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" height="60" alt="iOS"/>
 </p>
+
+<!-- Typing animation -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammed+Emin+Alan+(wonzy);Flutter+Developer+🚀;Cross+Platform+App+Builder+🌍" alt="Typing SVG" />
+  </a>
+</h1>
 
 ---
 
@@ -28,6 +34,20 @@
 
 ---
 
+## 📌 Featured Projects  
+🚀 [**flutter_bloc_learning**](https://github.com/muhammedeminalan/flutter_bloc_learning) – State management with **Bloc**  
+🎯 [**getx_quiz_app**](https://github.com/muhammedeminalan/getx_quiz_app) – Quiz app built using **GetX**  
+⚡ [**locator-ornek**](https://github.com/muhammedeminalan/locator-ornek) – Example project using **Service Locator Pattern**  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedeminalan&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedeminalan&layout=compact&theme=tokyonight" height="170" alt="Top Langs"/>
+</p>
+
+---
 
 ## 🌍 Connect with Me  
 <p align="center">
