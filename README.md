@@ -1,16 +1,22 @@
-<!-- Banner -->
-<p align="center" style="line-height: 1.5;">
+<!-- Banner: Logolar yan yana, isimler altında -->
+<p align="center" style="display: flex; justify-content: center; gap: 60px; flex-wrap: nowrap;">
   <!-- Flutter -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="60" alt="Flutter Logo" style="filter: brightness(1.2) invert(0.1);" /><br>
-  <strong style="color:#00C4FF;">Flutter</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="60" alt="Flutter Logo" style="filter: brightness(1.2) invert(0.1);" />
+    <span style="color:#00C4FF; font-weight: bold; margin-top: 5px;">Flutter</span>
+  </span>
+
   <!-- Android -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="60" alt="Android Logo" style="filter: brightness(1.1) saturate(1.5) hue-rotate(80deg);" /><br>
-  <strong style="color:#A4C639;">Android</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Apple -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="60" alt="iOS Logo" style="filter: brightness(1.5) invert(0.9);" /><br>
-  <strong style="color:#FFFFFF;">iOS</strong>
+  <span style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="60" alt="Android Logo" style="filter: brightness(1.1) saturate(1.5) hue-rotate(80deg);" />
+    <span style="color:#A4C639; font-weight: bold; margin-top: 5px;">Android</span>
+  </span>
+
+  <!-- iOS -->
+  <span style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="60" alt="iOS Logo" style="filter: brightness(1.5) invert(0.9);" />
+    <span style="color:#FFFFFF; font-weight: bold; margin-top: 5px;">iOS</span>
+  </span>
 </p>
 <!-- Typing animation alt alta, renkler değişiyor -->
 <h1 align="center">
