@@ -1,5 +1,5 @@
 <!-- Banner: Sadece logolar, daha büyük ve yan yana, Apple beyaz -->
-<p align="center" style="display: flex; justify-content: center; gap: 80px; flex-wrap: nowrap;">
+<p align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: nowrap;">
   <!-- Flutter -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="100" alt="Flutter Logo" style="filter: brightness(1.2) invert(0.1);" />
 
