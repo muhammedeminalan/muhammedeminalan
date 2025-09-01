@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="100" alt="Android Logo" style="filter: brightness(1.1) saturate(1.5) hue-rotate(80deg);" />
 
   <!-- iOS (Apple) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="100" alt="Apple Logo" style="filter: brightness(10) invert(1);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="100" alt="Apple Logo" style="filter: brightness(1) invert(1);" />
 </p>
 
 <!-- Animasyonlu yazılar alt alta, neon renkli -->
