@@ -25,7 +25,7 @@
 - Mimari: Clean Architecture, Repository, DI/Service Locator, error handling, caching
 - Veri & Ağ: Dio, REST, WebSocket, Secure Storage
 - Test: Unit, Widget, Integration, Golden
-- CI/CD & Dağıtım: GitHub Actions, Codemagic, Fastlane
+- CI/CD : GitHub 
 - Yayın: Google Play Console, App Store Connect
 
 ---
