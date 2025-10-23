@@ -1,32 +1,33 @@
-<!-- Banner: Sadece logolar, daha büyük ve yan yana, Apple beyaz -->
-<p align="center" style="display: flex; justify-content: center; gap: 80px; flex-wrap: nowrap;">
-  <!-- Flutter -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="100" alt="Flutter Logo" style="filter: brightness(1.2) invert(0.1);" />
+<div align="center">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="56" alt="Flutter" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="56" alt="Dart" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="56" alt="Firebase" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="56" alt="Android" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="56" alt="iOS" />
+</div>
 
-  <!-- Android -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="100" alt="Android Logo" style="filter: brightness(1.1) saturate(1.5) hue-rotate(80deg);" />
+<h1 align="center">Muhammed Emin Alan (wonzy)</h1>
+<p align="center">Flutter Developer | Cross-platform App Developer | Android & iOS</p>
 
-  <!-- iOS (Apple) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="100" alt="Apple Logo" style="filter: brightness(1) invert(1);" />
-</p>
+---
 
-<!-- Animasyonlu yazılar alt alta, neon renkli -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Muhammed+Emin+Alan+(wonzy)" alt="Typing SVG" />
-  </a>
-</h1>
+## Özet
+- Clean Architecture · SOLID · test odaklı, production‑ready Flutter
+- State: BLoC / GetX · Ağ: Dio/REST/WebSocket · Offline‑first: SQLite/Hive
+- Firebase: Auth, Firestore, Storage, FCM, Crashlytics, Analytics, Remote Config
+- Performans: minimal rebuild, lazy loading, isolates, DevTools profiling
+- Navigasyon & Derin Bağlantı: go_router / Navigator 2.0, deep links, app links
+- UI/UX: Material 3, theming, responsive/adaptive
+- Entegrasyon: native channels, izinler, bildirimler, background tasks
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=FF6EC7&center=true&vCenter=true&width=650&lines=Flutter+Developer+🚀" alt="Typing SVG" />
-  </a>
-</h1>
+## Teknolojiler
+- Mobil/UI: Flutter, Dart, Material 3, responsive/adaptive UI, theming
+- Mimari: Clean Architecture, Repository, DI/Service Locator, error handling, caching
+- Veri & Ağ: Dio, REST, WebSocket, Secure Storage
+- Test: Unit, Widget, Integration, Golden
+- CI/CD & Dağıtım: GitHub Actions, Codemagic, Fastlane
+- Yayın: Google Play Console, App Store Connect
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=600&color=7CFC00&center=true&vCenter=true&width=650&lines=Cross+Platform+App+Builder+🌍" alt="Typing SVG" />
-  </a>
-</h1>
+---
 
 
