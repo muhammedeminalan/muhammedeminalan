@@ -12,8 +12,11 @@
 ---
 
 ## Özet
-- Clean Architecture · SOLID · test odaklı, production‑ready Flutter
-- State: BLoC / GetX · Ağ: Dio/REST/WebSocket · Offline‑first: SQLite/Hive
+- Clean Architecture 
+- SOLID · test odaklı, production‑ready Flutter
+- State: BLoC / GetX 
+- Ağ: Dio/REST/WebSocket
+- Offline‑first: SQLite/Hive
 - Firebase: Auth, Firestore, Storage, FCM, Crashlytics, Analytics, Remote Config
 - Performans: minimal rebuild, lazy loading, isolates, DevTools profiling
 - Navigasyon & Derin Bağlantı: go_router / Navigator 2.0, deep links, app links
