@@ -14,12 +14,12 @@
 ## Özet
 - Clean Architecture 
 - SOLID · test odaklı, production‑ready Flutter
-- State: BLoC / GetX 
-- Ağ: Dio/REST/WebSocket
+- State: BLoC / Provider / Riverpod / GetX 
+- Ağ: Dio/Http/REST/WebSocket
 - Offline‑first: SQLite/Hive
-- Firebase: Auth, Firestore, Storage, FCM, Crashlytics, Analytics, Remote Config
+- Firebase: Auth, Firestore, Storage, FCM
 - Performans: minimal rebuild, lazy loading, isolates, DevTools profiling
-- Navigasyon & Derin Bağlantı: go_router / Navigator 2.0, deep links, app links
+- Navigasyon & Derin Bağlantı: go_router / Navigator 2.0
 - UI/UX: Material 3, theming, responsive/adaptive
 - Entegrasyon: native channels, izinler, bildirimler, background tasks
 
@@ -27,7 +27,6 @@
 - Mobil/UI: Flutter, Dart, Material 3, responsive/adaptive UI, theming
 - Mimari: Clean Architecture, Repository, DI/Service Locator, error handling, caching
 - Veri & Ağ: Dio, REST, WebSocket, Secure Storage
-- Test: Unit, Widget, Integration, Golden
 - CI/CD : GitHub 
 - Yayın: Google Play Console, App Store Connect
 
