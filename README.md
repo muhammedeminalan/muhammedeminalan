@@ -19,7 +19,7 @@
 - Offline‑first: SQLite/Hive
 - Firebase: Auth, Firestore, Storage, FCM
 - Performans: minimal rebuild, lazy loading, isolates, DevTools profiling
-- Navigasyon & Derin Bağlantı: go_router / Navigator 2.0
+- Navigasyon : go_router / Navigator 2.0
 - UI/UX: Material 3, theming, responsive/adaptive
 - Entegrasyon: native channels, izinler, bildirimler, background tasks
 
