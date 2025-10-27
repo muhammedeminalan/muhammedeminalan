@@ -15,7 +15,7 @@
 - Clean Architecture 
 - SOLID · test odaklı, production‑ready Flutter
 - State: BLoC / Provider / Riverpod / GetX 
-- Ağ: Dio/Http/REST/WebSocket
+- Ağ: Dio / Http / REST / WebSocket
 - Offline‑first: SQLite/Hive
 - Firebase: Auth, Firestore, Storage, FCM
 - Performans: minimal rebuild, lazy loading, isolates, DevTools profiling
