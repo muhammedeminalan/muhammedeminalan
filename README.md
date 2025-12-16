@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">Muhammed Emin Alan (wonzy)</h1>
-<p align="center">Flutter Developer | Cross-platform App Developer | Android & iOS</p>
+<p align="center">Mobile Developer | Native Android (Kotlin) & Cross-Platform (Flutter)</p>
 
 ---
 
