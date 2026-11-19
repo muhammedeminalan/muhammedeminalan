@@ -1,0 +1,1 @@
+<p align="center"> <img src="banner.gif" width="100%" alt="Muhammed Emin Alan — Mobile Developer" /> </p> <p align="center"> <a href="https://flutter.dev"> <img src="https://skillicons.dev/icons?i=flutter" width="56" alt="Flutter" /> </a> </p>
